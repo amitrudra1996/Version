@@ -1,2 +1,3 @@
 # Version
-it is my first github program
+it is my first github repository program.
+author:dayle
